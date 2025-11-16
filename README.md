@@ -25,10 +25,10 @@
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="https://instagram.com/sonujana.ig" target="_blank">
+<a href="https://www.instagram.com/j3ster.js/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
-<a href="https://discord.gg/1070619070468214824" target="_blank">
+<a href="https://discord.gg/neptune99" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
 </a>
 </p>
